@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "3bc88a2ecb8dcfef",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea41ef465b3b9252",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42836f1ec740ac11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assets/Weapons/Rocky Hammer/Textures.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Textures"
+            }
+          },
+          {
+            "id": "6ae7262090430a95",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
+          },
+          {
+            "id": "6594fd15b9d005ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HOME.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HOME"
+            }
+          },
+          {
+            "id": "3181ff3f1dff484a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assets/Weapons/Rocky Hammer/Models.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Models"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53bde2c9e176a50b",
+    "type": "split",
+    "children": [
+      {
+        "id": "aadfda823e5e5fd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "338310638765e507",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c4118441bff95656",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#task",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bad1524d6f386fe6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1959ac8f266f9f00",
+    "type": "split",
+    "children": [
+      {
+        "id": "e53f45b847400f66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f499a510ecf1759d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MTI 1/Negociação.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Negociação"
+            }
+          },
+          {
+            "id": "81bdf91754c528a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MTI 1/Negociação.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Negociação"
+            }
+          },
+          {
+            "id": "93de0bb493bfa023",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9f1c8c4631b82f6f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Quadro de Atividades/Junho.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Junho"
+            }
+          },
+          {
+            "id": "88098e70642ae9af",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 391.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "338310638765e507",
+  "lastOpenFiles": [
+    "Quadro de Atividades/Untitled",
+    "Script Interstellar.md",
+    "Assets/Weapons/Rocky Hammer/Models.md",
+    "Assets/Weapons/Rocky Hammer/Shaders.md",
+    "Assets/Weapons/Rocky Hammer/Effects.md",
+    "Assets/Weapons/Rocky Hammer/Animation.md",
+    "HOME.md",
+    "Assets/Notes of Unity/Shaders.md",
+    "Assets/Notes of Blender/Models.md",
+    "Assets/Holy/Particles and Ideas.md",
+    "Assets/Holy/Issues to be fixed.md",
+    "Assets/Holy/Features to be made.md",
+    "Assets/Weapons/Rocky Hammer/Textures.md",
+    "Quadro de Atividades/Junho.md",
+    "Assets/Notes of Blender",
+    "Assets/Notes of Unity",
+    "Assets/Weapons/Rocky Hammer",
+    "Assets/Weapons",
+    "O Desconhecido/Locais/Abismo.md",
+    "Assets/Icy",
+    "Assets/Holy",
+    "Assets",
+    "O Desconhecido/Criaturas",
+    "O Desconhecido/Itens",
+    "O Desconhecido/Dungeons",
+    "MTI 1/Negociação.md",
+    "Welcome.md"
+  ]
+}
